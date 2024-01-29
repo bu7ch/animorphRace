@@ -3,3 +3,4 @@
 - Elephant
 - Leopard
 - Lion
+- Paresseux
